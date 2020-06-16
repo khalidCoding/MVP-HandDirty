@@ -2,8 +2,8 @@ package com.mobotechnology.bipinpandey.mvp_hand_dirty.main_activity.view;
 
 import android.content.res.Resources;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
@@ -11,7 +11,6 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import com.mobotechnology.bipinpandey.mvp_hand_dirty.R;
 import com.mobotechnology.bipinpandey.mvp_hand_dirty.main_activity.presenter.MainActivityPresenter;
 

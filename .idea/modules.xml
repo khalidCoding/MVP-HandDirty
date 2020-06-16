@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVP-HandDirty.iml" filepath="$PROJECT_DIR$/.idea/modules/MVP-HandDirty.iml" group="MVP-HandDirty" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MVP-HandDirty-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MVP-HandDirty-app.iml" group="MVP-HandDirty/app" />
       <module fileurl="file://$PROJECT_DIR$/MVP_Handdirty.iml" filepath="$PROJECT_DIR$/MVP_Handdirty.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
